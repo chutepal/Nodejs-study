@@ -1,0 +1,1 @@
+This is the content of read file which will be read by 'read file' method.
